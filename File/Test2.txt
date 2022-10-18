@@ -1,0 +1,53 @@
+
+The programmer is...
+1. Eternal martyr
+2. Masochist
+3. A person striving for knowledge
+
+Bug is...
+1. Buck in Georgian
+2. Person's name
+3. Mistake
+
+How much does a programmer sleep?
+1. What is sleep?
+2. 4 hours a day
+3. How many wants
+
+Who cannot inherit
+1. Children
+2. Subclass
+3. Neighbor
+
+How much do you spend on programming?
+1. 2 hours a day
+2. All free time
+3. 4 hours a day
+
+What is a multidimensional array?
+1. An array extending into other dimensions
+2. An array that has many sizes
+3. An array of arrays
+
+What is JVM?
+1. Machine brand
+2. Virtual Machine
+3. Variety of coffee
+
+What is the size of a primitive int variable?
+1. 32 bits
+2. 16 bit
+3. 8 bit
+
+Variable char ...
+1. Logic
+2. Real
+3. String
+
+What is the type of inheritance in Java?
+1. For money
+2. Single
+3. Plural
+
+_______________________________________________________________
+Thank you for taking our test!!
